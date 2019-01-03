@@ -3,14 +3,14 @@
     {
       "id": 1,
       "num": "001",
-      "name": "Bulbasaur",
-      "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+      "name": "Asokan T",
+      "img": "https://ed.iitm.ac.in/images/asokan.jpg",
       "type": [
         "Grass",
         "Poison"
       ],
-      "height": "0.71 m",
-      "weight": "6.9 kg",
+      "height": "ED 115",
+      "weight": "+91 44 2257 4707",
       "candy": "Bulbasaur Candy",
       "candy_count": 25,
       "egg": "2 km",
@@ -21,33 +21,33 @@
         1.58
       ],
       "weaknesses": [
-        "Fire",
-        "Ice",
-        "Flying",
-        "Psychic"
+        "Robotics (underwater robots, mobile robots and medical robots)",
+        "Electro hydraulic Controls",
+        "Mechatronics",
+        "Medical devices"
       ],
       "next_evolution": [
         {
           "num": "002",
-          "name": "Ivysaur"
+          "name": "https://ed.iitm.ac.in/~asokan"
         },
         {
           "num": "003",
-          "name": "Venusaur"
+          "name": "asok at iitm dot ac dot in"
         }
       ]
     },
     {
       "id": 2,
       "num": "002",
-      "name": "Ivysaur",
-      "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+      "name": "Balkrishna C Rao",
+      "img": "https://ed.iitm.ac.in/images/brao.jpg",
       "type": [
         "Grass",
         "Poison"
       ],
-      "height": "0.99 m",
-      "weight": "13.0 kg",
+      "height": "ED 116",
+      "weight": "+91 44 2257 4660",
       "candy": "Bulbasaur Candy",
       "candy_count": 100,
       "egg": "Not in Eggs",
@@ -59,21 +59,21 @@
         1.6
       ],
       "weaknesses": [
-        "Fire",
-        "Ice",
-        "Flying",
-        "Psychic"
+        "Sustainable Manufacturing",
+        "Additive Manufacturing",
+        "Frugal Design",
+        "Frugal Engineering"
       ],
       "prev_evolution": [
         {
           "num": "001",
-          "name": "Bulbasaur"
+          "name": "https://ed.iitm.ac.in/~balkris"
         }
       ],
       "next_evolution": [
         {
           "num": "003",
-          "name": "Venusaur"
+          "name": "balkrish at iitm dot ac dot in"
         }
       ]
     },
