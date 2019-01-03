@@ -12,9 +12,7 @@
     ],
     "Office": "ED 115",
     "Tel (O)": "+91 44 2257 4707",
-    "Email": [
-      "https://ed.iitm.ac.in/~asokan"
-    ],
+    "Email":"https://ed.iitm.ac.in/~asokan",
     "Projects": [{
       "num": "002",
       "name": "Ivysaur"
